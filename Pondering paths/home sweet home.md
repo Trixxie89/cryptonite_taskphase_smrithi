@@ -1,8 +1,8 @@
 # HOME SWEET HOME
 Took me some time to solve this one.so here we learn ~ refers to home directory which is home /hacker
 so to make it the cwd we do cd ~
-now according to Q we need to write the flag that would be genrated by the pgm stored in  challenge/run(stored internally in it and displayed when we get
-the right command) and write the argument in such a way the flag is cpied to file..stored in ~...the hint was use the absolute path
+now according to Q we need to write the flag that would be genrated by the pgm stored in  /challenge/run(stored internally in it and displayed when we get
+the right command) and write the argument in such a way the flag is copied to file..stored in ~...the hint was use the absolute path
 and keep argument less than 3 char..so challenge/run to run the pgm ..then i typed ~/p..this is argument telling them 
 to store the flag in that P file in ~
 ```bash
