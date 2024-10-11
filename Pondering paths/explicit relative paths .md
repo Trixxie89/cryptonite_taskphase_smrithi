@@ -1,6 +1,6 @@
 # EXPLICIT RELATIVE PATHS
 i understood from my research that implicit relative path means..im using the name of current working directory
-to call it..but not specified as thats what relative path is about..(challenge/run) but explicit we use . to efer to curent working
+to call it..but not specified as thats what relative path is about..(challenge/run) but explicit we use . to refer to curent working
 directory and .. for parent directory{just above current directory}..so i used cd / to make it the / directory..and type ./challenge/run as thats waht
 explicit relative path is
 ``` bash
