@@ -1,7 +1,7 @@
 # IMPLICIT RELATIVE PATHS FROM /
 here we have to do relative path..which is basically absolute path - root directory..its given current 
 directory is /..use cd / make that the directory..now from current directory link to the challenge/run..dont use / again as
-its realtive path..nnot absolute path..in relative path we connect from current directory toffile we wanna connect.
+its relative path..not absolute path..in relative path we connect from current directory to file we want to connect.
 ```bash
 Correct!!!
 challenge/run is a relative path, invoked from the right directory!
