@@ -1,4 +1,5 @@
 # SUID BIT
+i first used chmod  to chage permissions of file...u+S indicated changing user permissions..+s sets suid bit...ls to get details..then i ran challenge
   ``` bash
 
 hacker@permissions~the-suid-bit:~$ chmod u+s /challenge/getroot
