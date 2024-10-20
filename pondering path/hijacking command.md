@@ -1,4 +1,13 @@
 # HIJACKING COMMAND
+so inorder to revent finding of rm
+i typed #!/bin/bash
+if [[ "$@" == "/flag" ]]; then
+    echo "Attempt to delete the flag was blocked!"
+else
+    /bin/rm "$@"
+fi
+and then made it executavle with chmod..then changed path to ?home?hacker
+and then ran it
 ``` bash
 bash
 hacker@path~hijacking-commands:~$ nano rm
