@@ -1,4 +1,6 @@
 # other users with su
+su zardus, This command attempts to switch the current user to zardus.then run /challenge/run
+
 ``` bash
                                                                             Connected!
 hacker@users~other-users-with-su:~$ su zardus
