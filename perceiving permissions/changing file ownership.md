@@ -1,4 +1,5 @@
-# changinf file ownership
+# CHANGING FILE OWNERSHIP
+This chown command changes the ownership of the file /flag to the user hacker.then i read the flag file with cat and got flag
 ``` bash
                                                                             Connected!
 hacker@permissions~changing-file-ownership:~$ chown hacker /flag
