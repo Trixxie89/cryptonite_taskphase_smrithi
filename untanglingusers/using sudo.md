@@ -1,4 +1,7 @@
 # using sudo
+sudo find / -name '*flag*' 2>/dev/null//used this to find files which have flag..thsi is to find the filw..which may contsin flag
+then i catted it ut with the app flag file..trial and error basically
+
 ``` bash
                                                                                                                                                         Connected!
 hacker@users~using-sudo:~$ sudo cat /challenge/flag
