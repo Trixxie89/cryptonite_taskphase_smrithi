@@ -1,3 +1,6 @@
+# changing permissions
+so here i firstdid ls -l to read details of ?flag
+then i did chmod o +r as per Q /..adding reading permissions to others..other than owner..then i read flag ad got it
 ``` bash
 Connected!
 hacker@permissions~changing-permissions:~$ ls -l /flag
