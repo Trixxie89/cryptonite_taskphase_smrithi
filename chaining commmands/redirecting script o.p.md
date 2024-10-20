@@ -1,4 +1,10 @@
 # REDIRECTING SCRIPT O/P
+used nano x.sh to make the text editor typed this
+#!/bin/bash
+/challenge/pwn
+/challenge/college
+used chmod to make it executanle..
+then i did piping..so i took o?p of bash x.sh as input for ths /challenge/solve
 ``` bash
                                                                             Connected!
 hacker@chaining~redirecting-script-output:~$ nano x.sh
