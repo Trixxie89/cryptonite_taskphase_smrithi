@@ -1,4 +1,5 @@
 # EXECUTABLE SHELL SCRIPTS
+so here first command is to create nano tect editor ehich edits file solve script.sh ..used chmod to make its  executable... and then ran challenge pm
 ``` bash
                                                                             Connected!
 hacker@chaining~executable-shell-scripts:~$ nano solve_script.sh
