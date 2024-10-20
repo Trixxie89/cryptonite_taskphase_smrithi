@@ -1,4 +1,16 @@
 # PERMISSION TWEAKING PRACTICE
+same as previous Q..
+u: user (owner)
+g: group
+o: others
+r: read
+w: write
+x: execute
+=: set exact permissions (overrides existing ones)
+-: remove permissions
+cat /flag: Displays the contents of the file /flag.
+chmod g=x,o=- /challenge/pwn: Gives execute permission to the group and removes all permissions from others.
+acc to req made command
 ``` bash
 hacker@permissions~permission-tweaking-practice:~$ /challenge/run
 Round 0 (of 8)!
