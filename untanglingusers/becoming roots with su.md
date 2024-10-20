@@ -1,4 +1,6 @@
 # BECOMING ROOTS WITH SU
+ls to get details of file..su- to switch root user without using a login shellwrote password fiven in Q..used ls to find what all flags which could contain flag..then i was catting each file..to get th flag //got it in not thte flag
+
 ``` bash
 hacker@users~becoming-root-with-su:~$ ls -l /usr/bin/su
 -rwxr-xr-x 1 root root 67816 Apr  9  2024 /usr/bin/su
