@@ -1,4 +1,15 @@
 # permission setting practice
+so here i reuired to change permissoions as told..i took ths from wiki for references
+u: user (owner)
+g: group
+o: others
+r: read
+w: write
+x: execute
+=: set exact permissions (overrides existing ones)
+-: remove permissions
+chmod u=rwx,g=-,o=w /challenge/pwn: Sets user permissions to read..write,..and execute...removes group permissions; and it leats others to write.
+like this i made each command
 ``` bash
 hacker@permissions~permissions-setting-practice:~$ /challenge/run
 Round 0 (of 8)!
