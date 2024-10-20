@@ -1,4 +1,6 @@
 # setting path
+so here what i did was it was told to make PATH as /challenge/my commands..as the /challenge/run will run the win pgm ehose code file is in that directory//we can by making PATH as that..when /challenge/run runs..onlly that directory with win command is searched nd flag will be printed
+
 ``` bash
 Connected!
 hacker@path~setting-path:~$ echo $PATH
